@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"Kaccm"
+	{
+		"#format"	"{1:s},{2:i}"
+		"tr"	"{green}{1} {white}kişisinin malafatı {orange}{2} CM!"
+		"en"	"{green}{1}{white}'s boner length is {orange}{2} CM!"
+	}
+	"CoolDown"
+	{
+		"tr"	"Bu komutu tekrar kullanmadan önce biraz bekle!"
+		"en"	"Wait a bit before using this command again!"
+	}
+}
