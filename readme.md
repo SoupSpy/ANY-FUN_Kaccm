@@ -1,6 +1,6 @@
 Oyunculara !kaccm komutunu sunar.
 
-#Cvar Listesi
+## Cvar Listesi
 
 |Cvar|Değeri|Amacı|      
 |----|-----|-------|      
