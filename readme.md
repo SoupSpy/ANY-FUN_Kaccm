@@ -10,3 +10,5 @@ Oyunculara !kaccm komutunu sunar.
 |sm_vxkaccm_min|3|Komut kullanıldığında yazılacak en minimum uzunluk|
 |sm_vxkaccm_max|31|Komut kullanıldığında yazılacak en maximum uzunluk|
 |sm_vxkaccm_cooldown|15|Komutu bidaha kullanmadan önce beklemesi gereken saniye uzunluğu|
+
+Sunucumuza ait pluginleri kullanmanız konusunda bir kısıtlama bulunmamakta, fakat izniniz olmadan bu pluginleri para karşılığı veya ücretsiz olmak üzere herhangi bir platformda adınıza paylaşmak yasaktır. Bu sekmeyi açarak bu sözleşmeyi otomatik olarak kabul etmiş olursunuz.
